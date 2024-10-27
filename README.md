@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">👀 Estou interessado em... ciência de dados, machine learning, desenvolvimento web e automação de processos, especialmente na aplicação dessas áreas para resolver problemas do mundo real.<br>✨ Corrigindo e criando problemas desde 2023<br>📚 Atualmente estudando IA e aperfeiçoando códigos em python<br>💞️ Estou procurando colaborar em projetos que envolvam análise de dados, desenvolvimento de aplicações, e qualquer iniciativa que combine com a tecnologia.<br>📫 Você pode me encontrar no LinkedIn [www.linkedin.com/in/klaus-ag] ou enviar um e-mail para [kallendgehrke@gmail.com].<br>😄 Pronouns: Ele/Dele (He/Him).<br>🎲 Fun fact: Me apaixonei por programação tentando descobrir a senha do meu próprio roteador em casa, foi ali que conheci python kkk</p>
+<p align="left">👀 Estou interessado em... ciência de dados, machine learning, desenvolvimento web e automação de processos, especialmente na aplicação dessas áreas para resolver problemas do mundo real.<br>✨ Corrigindo e criando problemas desde 2023<br>📚 Atualmente estudando IA e aperfeiçoando códigos em python<br>💞️ Estou procurando colaborar em projetos que envolvam análise de dados, desenvolvimento de aplicações, e qualquer iniciativa que combine com a tecnologia.<br>📫 Você pode me encontrar no LinkedIn [www.linkedin.com/in/klaus-ag] ou enviar um e-mail para [kallendgehrke@gmail.com].<br>😄 Pronouns: Ele/Dele (He/Him).<br>🎲 Fun fact: Me apaixonei por programação tentando descobrir a senha do meu próprio roteador em casa, foi ali que conheci python hahaha</p>
 
 ###
 
