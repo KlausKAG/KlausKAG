@@ -12,4 +12,5 @@ Desenvolvedor de software formado em Análise e Desenvolvimento de Sistemas, com
 
 ## Stack
 
-![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg) ![Flask](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg) ![Django](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg) ![HTML5](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg) ![CSS3](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg) ![Git](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg) ![GitHub](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg)
+**Linguagens & Frameworks:** Python · Flask · Django · HTML5 · CSS3
+**Ferramentas:** Git · GitHub
